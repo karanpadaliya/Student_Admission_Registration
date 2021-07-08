@@ -17,7 +17,7 @@
     <center>
     <div class="container col-md-4 my-4">
         
-        <form action="/PHPSEM5/registrationcopy.php" method="POST" style="background-color:rgb(212, 230, 241)">
+        <form action="/PHPSEM5/registration.php" method="POST" style="background-color:rgb(212, 230, 241)">
         <fieldset>
         <table width="70%" style="float:left">
             <tr>
